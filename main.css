@@ -59,12 +59,6 @@ h1 {
     padding-top: 1rem;
 }
 
-.controls {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2rem;
-}
 
 .hidden {
     display: none;
@@ -83,5 +77,5 @@ h1 {
 }
 
 .play-icon {
-    // color: teal;
+    color: teal;
 }
